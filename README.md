@@ -1,5 +1,5 @@
-Fabio Birnegger
-Automatic Backup Script for Linux
+Automatic Backup Script for Linux 
+by Fabio Birnegger
 
 ----- Description -----
 #backup.sh: This Script is able to automatically create a backupfile of the home directory of one or more users. It enrypts and signs the created file. It also does a Sanity check and counts the total number of back upped items.
